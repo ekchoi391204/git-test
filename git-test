@@ -1,3 +1,7 @@
 update git test
 update git test
+<<<<<<< HEAD
 local B update
+=======
+local A update
+>>>>>>> 3e2e5887a83a6bdd41487c69b67b7c470f432a88
